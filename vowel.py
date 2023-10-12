@@ -20,3 +20,9 @@ vowel_count, consonant_count = string(strng)
 print(f"String: {strng}")
 print(f"Vowel count: {vowel_count}")
 print(f"Consonant count: {consonant_count}")
+'''
+Enter String:malayalam
+String: malayalam
+Vowel count: 4
+Consonant count: 5
+'''
