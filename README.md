@@ -10,3 +10,4 @@ Projects based on basic Python
 ->To exit, choose the "Exit" option.
 
 # 2) Multiplication Table
+# 3)String Analyzer
