@@ -8,3 +8,5 @@ Projects based on basic Python
 ->Enter num1 and num2 when prompted.
 ->Follow the on-screen menu to perform calculations.
 ->To exit, choose the "Exit" option.
+
+# 2) Multiplication Table
